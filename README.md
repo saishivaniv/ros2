@@ -1,3 +1,3 @@
 # Creating Custom Publisher Node to Subscriber Node
 
-[Output](https://github.com/saishivaniv/ros2/blob/main/pub_to_sub.png?raw=true)
+[Output]("D:\robotics\ros\pub_to_sub\pub_to_sub.png")
